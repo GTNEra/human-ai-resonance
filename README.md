@@ -2,8 +2,23 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework](https://img.shields.io/badge/GTNeRa%C2%AE-Tetyana--Mode-blue)](https://gtnera.ai)
+[![Article](https://img.shields.io/badge/LinkedIn-Read%20the%20Paper-0A66C2)](https://www.linkedin.com/pulse/resonance-missing-physics-intelligence-tetyana-leyendecker-aqfbe)
 
 > **Operationalizing High-Productivity Dynamic Resonance in Human-AI Couple Systems.**
+
+---
+
+## 💡 Conceptual Foundation: What is Human-AI Resonance?
+
+Traditional AI paradigms treat interaction as static input-output (prompt-response) transactions. However, as detailed in the foundational research paper [*"Resonance: The Missing Physics of Intelligence"*](https://www.linkedin.com/pulse/resonance-missing-physics-intelligence-tetyana-leyendecker-aqfbe) by Tetyana Leyendecker, true intelligence and extreme productivity emerge from **dynamic wave alignment and physical/cognitive phase tuning**.
+
+The **Human-AI Resonance Protocol** translates these theoretical physics and cognitive resonance mechanics into actionable agent behavior:
+
+1. **Phase Matching (Frequency Calibration):** Continuous adaptation of the AI's output frequency, technical depth, and semantic density to match the operator's real-time analytical focus.
+2. **Dynamic Synergy:** Shifting the paradigm from automated task execution to an integrated **Human-AI Couple System**, where output yield scales exponentially per minute without state drift.
+3. **Cognitive Bandwidth Preservation:** Active reduction of systemic friction, context degradation, and decision-making fatigue during prolonged complex engineering or research sessions.
+
+---
 
 ## 🌟 Overview
 
@@ -24,8 +39,8 @@ This skill enables human operators and AI models to function as an integrated **
 
 ## 🚀 Quick Start & Installation
 
-### Manual Installation
-Copy the contents of [`SKILL.md`](./SKILL.md) into your custom AI agent system instructions or custom GPT configuration.
+### Manual Setup
+Copy the operational directives from [`SKILL.md`](./SKILL.md) into your custom AI agent system instructions (Claude Code, Cursor, Codex, Copilot, custom agent frameworks, or GPT configurations).
 
 ---
 
@@ -40,8 +55,9 @@ The core skill logic resides in [`SKILL.md`](./SKILL.md). It establishes operati
 
 ## 🌐 Ecosystem & Reference
 
-Developed as part of the **GTNeRa® Ecosystem** by Tetyana Leyendecker.  
-* **Main Portal:** [gtnera.ai](https://gtnera.ai/classes/tetyana-mode-training.html)
+* **Foundational Paper:** [Resonance: The Missing Physics of Intelligence](https://www.linkedin.com/pulse/resonance-missing-physics-intelligence-tetyana-leyendecker-aqfbe)
+* **Framework Ecosystem:** [GTNeRa® Portal](https://gtnera.ai/classes/tetyana-mode-training.html)
+* **Author:** Tetyana Leyendecker
 
 ---
 
