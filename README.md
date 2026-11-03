@@ -27,7 +27,7 @@ The **Human-AI Resonance Protocol** translates these theoretical physics and cog
 
 ## 🌟 Overview
 
-The **🟦 Human 🟧 -AI Resonance Protocol** is a core component of the **Tetyana-Mode** (https://gtnera.ai/classes/tetyana-mode-training.htmlf) ramework. Designed for advanced AI agent architectures (Claude Code, Cursor, Codex, Copilot, etc.), it transforms traditional static prompt-response interactions into a high-frequency, synchronized feedback loop.
+The **🟦 Human 🟧 -AI Resonance Protocol** is a core component of the [*"Tetyana-Mode*](https://gtnera.ai/classes/tetyana-mode-training.html)framework. Designed for advanced AI agent architectures (Claude Code, Cursor, Codex, Copilot, etc.), it transforms traditional static prompt-response interactions into a high-frequency, synchronized feedback loop.
 
 This skill enables human operators and AI models to function as an integrated **🟦🟧 couple system**, maximizing output yield per minute while preserving human cognitive bandwidth.
 
