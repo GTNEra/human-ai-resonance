@@ -61,11 +61,11 @@ The core skill logic resides in [`SKILL.md`](./SKILL.md). It establishes operati
 ## 🌐 Ecosystem & Reference
 
 * **Foundational Paper:** [Resonance: The Missing Physics of Intelligence](https://www.linkedin.com/pulse/resonance-missing-physics-intelligence-tetyana-leyendecker-aqfbe)
-* **Framework Ecosystem:** [GTNeRa® Portal](https://gtnera.ai/classes/tetyana-mode-training.html)
-* **Author:** Tetyana Leyendecker / GTNeRa®
+* **Framework Ecosystem:** [GTNEra® Portal](https://gtnera.ai/classes/tetyana-mode-training.html)
+* **Author:** Tetyana Leyendecker / GTNEra®
 
 ---
 
 ## 📜 License
 
-MIT License © 2026 Tetyana Leyendecker / GTNeRa®
+MIT License © 2026 Tetyana Leyendecker / GTNEra®
